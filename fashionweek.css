@@ -1,0 +1,11 @@
+strong
+{
+    font-size: x-large;
+    font: 1em sans-serif;
+}
+
+.flor 
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
